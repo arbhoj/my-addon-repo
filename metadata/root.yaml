@@ -1,0 +1,12 @@
+---
+kibana:
+  display_name: kibana
+  description: kibana
+  logo: kibana/logo.svg
+  category: other
+  overview: kibana/overview.md
+  resources:
+    links:
+      - type: support
+        title: Submit a Support Request
+        link: https://d2iq.com/services-and-support
