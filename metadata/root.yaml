@@ -1,7 +1,19 @@
 ---
-kibana:
-  display_name: kibana
-  description: kibana
+awsebscsiprovisioner2:
+  display_name: awsebscsiprovisioner2
+  description: awsebscsiprovisioner2
+  logo: awsebscsiprovisioner/logo.svg
+  category: other
+  overview: awsebscsiprovisioner/overview.md
+  resources:
+    links:
+      - type: support
+        title: Submit a Support Request
+        link: https://d2iq.com/services-and-support
+---
+kibana2:
+  display_name: kibana2
+  description: kibana2
   logo: kibana/logo.svg
   category: other
   overview: kibana/overview.md
