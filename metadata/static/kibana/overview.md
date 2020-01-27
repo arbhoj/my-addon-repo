@@ -1,3 +1,0 @@
-# kibana overview
-
-TODO

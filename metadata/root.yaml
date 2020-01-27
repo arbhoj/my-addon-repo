@@ -11,18 +11,6 @@ awsebscsiprovisioner2:
         title: Submit a Support Request
         link: https://d2iq.com/services-and-support
 ---
-kibana2:
-  display_name: kibana2
-  description: kibana2
-  logo: kibana/logo.svg
-  category: other
-  overview: kibana/overview.md
-  resources:
-    links:
-      - type: support
-        title: Submit a Support Request
-        link: https://d2iq.com/services-and-support
----
 cockroachdb:
   display_name: cockroachdb
   description: cockroachdb
