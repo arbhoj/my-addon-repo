@@ -27,3 +27,4 @@ spec:
       enabled: true
   chartReference:
     chart: stable/cockroachdb
+    version: 3.0.2
